@@ -1,0 +1,61 @@
+footer {
+  background-color: #212529;
+}
+
+.container {
+  text-align: center;
+  color: #f44336;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 10px;
+  padding-top: 40px;
+}
+
+.container h2 {
+  margin: 15px;
+}
+
+.footer_img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.block_img1, .block_img2, .block_img3, .block_img4, .block_img5 {
+  width: calc(100%/4);
+  height: 150px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.block_img1 {
+  background-image: url("../../../assets/image/pngwin3.com.png");
+  -webkit-transform: rotate(-30deg);
+          transform: rotate(-30deg);
+}
+
+.block_img2 {
+  background-image: url("../../../assets/image/pngwing2.com.png");
+  -webkit-transform: rotate(15deg);
+          transform: rotate(15deg);
+}
+
+.block_img3 {
+  background-image: url("../../../assets/image/pngwing4.com.png");
+  -webkit-transform: rotate(-30deg);
+          transform: rotate(-30deg);
+}
+
+.block_img4 {
+  background-image: url("../../../assets/image/pngwing.com.png");
+  -webkit-transform: rotate(10deg);
+          transform: rotate(10deg);
+}
+
+.block_img5 {
+  background-image: url("../../../assets/image/pngwing5.com.png");
+  -webkit-transform: rotate(-10deg);
+          transform: rotate(-10deg);
+}
+/*# sourceMappingURL=footer.component.css.map */

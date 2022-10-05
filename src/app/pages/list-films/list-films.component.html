@@ -1,0 +1,83 @@
+<div class="back-container">
+    <div class="container">
+
+        <div class="text" *ngIf="text_count">
+            <h1>You can find your favorite movie and add to the list</h1>
+            <h3>please write the title in the field...</h3>
+        </div>
+
+        <div class="block-search">
+            <form class="example-form">
+                <mat-form-field class="example-full-width " color="warn" appearance="fill">
+                    <mat-label>Write the name of the movie</mat-label>
+                    <input autocomplete="off" matInput placeholder="" value="searchField" (change)="reset()"
+                        [(ngModel)]="searchField" name="searchField">
+                </mat-form-field>
+                <button class="search-btn" mat-raised-button color="warn"
+                    (click)="getAllList(searchField,count)">Search</button>
+            </form>
+        </div>
+
+        <div class="block_info"  [class.block_info_width]="block_info_width">
+            <h3 class="info">{{text_info}}</h3>
+        </div>
+
+        <div class="block-film">
+            <div class="block-about-film" *ngFor="let item of dataFilm">
+                <div class="block-img">
+                    <img [src]="item.Poster">
+                </div>
+                <div class="block-name">
+                    <p>{{item.Title}}</p>
+                </div>
+                <div class="example-button-row">
+                    <button type="button" class="btn btn-outline-danger" data-bs-toggle="modal"
+                        data-bs-target="#exampleModal" (click)="getIDList(item.imdbID)">More details</button>
+                    <button type="button" class="btn btn-outline-danger" (click)="addMyList(item.imdbID)">Add</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="block-arrow">
+            <span class="number-of-pages">Open page: {{count}} Number of pages: {{numbPage.toFixed()}}</span>
+            <button mat-button color="warn" (click)="getCount(false)"><i
+                    class="uil uil-angle-left-b arrow"></i></button>
+            <button mat-button color="warn" (click)="getCount(true)"><i
+                    class="uil uil-angle-right-b arrow"></i></button>
+        </div>
+
+        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-lg">
+                <div class="modal-content" *ngIf="moreDetails">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">{{idFilm.Title}}</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="modal-img">
+                            <img [src]="idFilm.Poster">
+                        </div>
+                        <div class="modal-text">
+                            <p><span>Plot:</span>{{idFilm.Plot}}</p>
+                            <p><span>Actors:</span> {{idFilm.Actors}}</p>
+                            <p><span>Genre:</span>{{idFilm.Rated + idFilm.Genre}}</p>
+                            <p><span>Written by:</span> {{idFilm.Writer}}</p>
+                            <p><span>Directed by:</span> {{idFilm.Director}}</p>
+                            <p><span>Starting:</span> {{idFilm.Actors}}</p>
+                            <p><span>BoxOffice: </span>{{idFilm.BoxOffice}};</p>
+                            <p><span>Awards: </span>{{idFilm.Awards}}</p>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" mat-stroked-button color="warn" data-bs-dismiss="modal">Close</button>
+                        <button type="button" mat-stroked-button data-bs-dismiss="modal"
+                            (click)="addMyList(idFilm.imdbID)" >ADD</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+
+    </div>
+</div>

@@ -1,0 +1,54 @@
+<div class="back-container">
+    <div class="container">
+        
+        <div class="block-film">
+            <div class="block-about-film" *ngFor="let item of favorite">
+                <div class="block-img">
+                    <img [src]="item.Poster">
+                </div>
+                <div class="block-name">
+                    <p>{{item.Title}}</p>
+                </div>
+                <div class="example-button-row">
+                    <button type="button" class="btn btn-outline-danger" (click)="deletefilm(item)"> Delete </button>
+                    <button type="button" class="btn btn-outline-danger" data-bs-toggle="modal" data-bs-target="#exampleModal"
+                    (click)="getIDList(item.id)">More details</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-lg">
+                <div class="modal-content" *ngIf="moreDetails">
+
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">{{moreInfo.Title}}</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    
+                    <div class="modal-body">
+                        <div class="modal-img">
+                            <img [src]="moreInfo.Poster">
+                        </div>
+                        <div class="modal-text">
+                            <p><span>Plot:</span>{{moreInfo.Plot}}</p>
+                            <p><span>Actors:</span> {{moreInfo.Actors}}</p>
+                            <p><span>Genre:</span>{{moreInfo.Rated + moreInfo.Genre}}</p>
+                            <p><span>Written by:</span> {{moreInfo.Writer}}</p>
+                            <p><span>Directed by:</span> {{moreInfo.Director}}</p>
+                            <p><span>Starting:</span> {{moreInfo.Actors}}</p>
+                            <p><span>BoxOffice: </span>{{moreInfo.BoxOffice}};</p>
+                            <p><span>Awards: </span>{{moreInfo.Awards}}</p>
+                        </div>
+                    </div>
+                    
+                    <div class="modal-footer">
+                        <button type="button" mat-stroked-button color="warn" data-bs-dismiss="modal">Close</button>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

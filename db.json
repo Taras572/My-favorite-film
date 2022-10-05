@@ -1,0 +1,988 @@
+{
+  "films": [
+    {
+      "Title": "Batman Begins",
+      "Year": "2005",
+      "Rated": "PG-13",
+      "Released": "15 Jun 2005",
+      "Runtime": "140 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Christopher Nolan",
+      "Writer": "Bob Kane, David S. Goyer, Christopher Nolan",
+      "Actors": "Christian Bale, Michael Caine, Ken Watanabe",
+      "Plot": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.",
+      "Language": "English, Mandarin",
+      "Country": "United States, United Kingdom",
+      "Awards": "Nominated for 1 Oscar. 13 wins & 79 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "84%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "70/100"
+        }
+      ],
+      "Metascore": "70",
+      "imdbRating": "8.2",
+      "imdbVotes": "1,452,552",
+      "imdbID": "tt0372784",
+      "Type": "movie",
+      "DVD": "18 Oct 2005",
+      "BoxOffice": "$206,863,479",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 3
+    },
+    {
+      "Title": "Fight Club",
+      "Year": "1999",
+      "Rated": "R",
+      "Released": "15 Oct 1999",
+      "Runtime": "139 min",
+      "Genre": "Drama",
+      "Director": "David Fincher",
+      "Writer": "Chuck Palahniuk, Jim Uhls",
+      "Actors": "Brad Pitt, Edward Norton, Meat Loaf",
+      "Plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+      "Language": "English",
+      "Country": "Germany, United States",
+      "Awards": "Nominated for 1 Oscar. 11 wins & 38 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "79%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "66/100"
+        }
+      ],
+      "Metascore": "66",
+      "imdbRating": "8.8",
+      "imdbVotes": "2,084,689",
+      "imdbID": "tt0137523",
+      "Type": "movie",
+      "DVD": "14 Oct 2003",
+      "BoxOffice": "$37,030,102",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 4
+    },
+    {
+      "Title": "Prince of Persia: The Sands of Time",
+      "Year": "2010",
+      "Rated": "PG-13",
+      "Released": "28 May 2010",
+      "Runtime": "116 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "Mike Newell",
+      "Writer": "Boaz Yakin, Doug Miro, Carlo Bernard",
+      "Actors": "Jake Gyllenhaal, Gemma Arterton, Ben Kingsley",
+      "Plot": "A young fugitive prince and princess must stop a villain who unknowingly threatens to destroy the world with a special dagger that enables the magic sand inside to reverse time.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 win & 11 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMwNDg0NzcyMV5BMl5BanBnXkFtZTcwNjg4MjQyMw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "37%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "50/100"
+        }
+      ],
+      "Metascore": "50",
+      "imdbRating": "6.6",
+      "imdbVotes": "288,934",
+      "imdbID": "tt0473075",
+      "Type": "movie",
+      "DVD": "14 Sep 2010",
+      "BoxOffice": "$90,759,676",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 5
+    },
+    {
+      "Title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "Year": "2003",
+      "Rated": "PG-13",
+      "Released": "09 Jul 2003",
+      "Runtime": "2 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "Gore Verbinski",
+      "Writer": "Ted Elliott, Terry Rossio, Stuart Beattie",
+      "Actors": "Johnny Depp, Geoffrey Rush, Orlando Bloom",
+      "Plot": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 5 Oscars. 38 wins & 104 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "79%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "63/100"
+        }
+      ],
+      "Metascore": "63",
+      "imdbRating": "8.1",
+      "imdbVotes": "1,113,224",
+      "imdbID": "tt0325980",
+      "Type": "movie",
+      "DVD": "25 Jan 2005",
+      "BoxOffice": "$305,413,918",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 6
+    },
+    {
+      "Title": "Pirates of the Caribbean: Dead Man's Chest",
+      "Year": "2006",
+      "Rated": "PG-13",
+      "Released": "07 Jul 2006",
+      "Runtime": "151 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "Gore Verbinski",
+      "Writer": "Ted Elliott, Terry Rossio, Stuart Beattie",
+      "Actors": "Johnny Depp, Orlando Bloom, Keira Knightley",
+      "Plot": "Jack Sparrow races to recover the heart of Davy Jones to avoid enslaving his soul to Jones' service, as other friends and foes seek the heart for their own agenda as well.",
+      "Language": "English, Turkish, Greek, Mandarin, French",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 45 wins & 54 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTcwODc1MTMxM15BMl5BanBnXkFtZTYwMDg1NzY3._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "53%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "53/100"
+        }
+      ],
+      "Metascore": "53",
+      "imdbRating": "7.3",
+      "imdbVotes": "713,639",
+      "imdbID": "tt0383574",
+      "Type": "movie",
+      "DVD": "05 Dec 2006",
+      "BoxOffice": "$423,315,812",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 7
+    },
+    {
+      "Title": "Pirates of the Caribbean: At World's End",
+      "Year": "2007",
+      "Rated": "PG-13",
+      "Released": "25 May 2007",
+      "Runtime": "169 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "Gore Verbinski",
+      "Writer": "Ted Elliott, Terry Rossio, Stuart Beattie",
+      "Actors": "Johnny Depp, Orlando Bloom, Keira Knightley",
+      "Plot": "Captain Barbossa, Will Turner and Elizabeth Swann must sail off the edge of the map, navigate treachery and betrayal, find Jack Sparrow, and make their final alliances for one last decisive battle.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 2 Oscars. 23 wins & 51 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIyNjkxNzEyMl5BMl5BanBnXkFtZTYwMjc3MDE3._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "44%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "50/100"
+        }
+      ],
+      "Metascore": "50",
+      "imdbRating": "7.1",
+      "imdbVotes": "647,205",
+      "imdbID": "tt0449088",
+      "Type": "movie",
+      "DVD": "04 Dec 2007",
+      "BoxOffice": "$309,420,425",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 8
+    },
+    {
+      "Title": "Pirates of the Caribbean: On Stranger Tides",
+      "Year": "2011",
+      "Rated": "PG-13",
+      "Released": "20 May 2011",
+      "Runtime": "136 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "Rob Marshall",
+      "Writer": "Ted Elliott, Terry Rossio, Stuart Beattie",
+      "Actors": "Johnny Depp, Penélope Cruz, Ian McShane",
+      "Plot": "Jack Sparrow and Barbossa embark on a quest to find the elusive fountain of youth, only to discover that Blackbeard and his daughter are after it too.",
+      "Language": "English, Spanish",
+      "Country": "United States, United Kingdom",
+      "Awards": "3 wins & 31 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5MjkwODI3Nl5BMl5BanBnXkFtZTcwNjcwMDk4NA@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "33%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "45/100"
+        }
+      ],
+      "Metascore": "45",
+      "imdbRating": "6.6",
+      "imdbVotes": "523,181",
+      "imdbID": "tt1298650",
+      "Type": "movie",
+      "DVD": "18 Oct 2011",
+      "BoxOffice": "$241,071,802",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 9
+    },
+    {
+      "Title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "Year": "2017",
+      "Rated": "PG-13",
+      "Released": "26 May 2017",
+      "Runtime": "129 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "Joachim Rønning, Espen Sandberg",
+      "Writer": "Jeff Nathanson, Terry Rossio, Ted Elliott",
+      "Actors": "Johnny Depp, Geoffrey Rush, Javier Bardem",
+      "Plot": "Captain Jack Sparrow is pursued by old rival Captain Salazar and a crew of deadly ghosts who have escaped from the Devil's Triangle. They're determined to kill every pirate at sea...notably Jack.",
+      "Language": "English, Spanish",
+      "Country": "United States, Australia, United Kingdom, Canada",
+      "Awards": "1 win & 13 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "30%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "39/100"
+        }
+      ],
+      "Metascore": "39",
+      "imdbRating": "6.5",
+      "imdbVotes": "307,390",
+      "imdbID": "tt1790809",
+      "Type": "movie",
+      "DVD": "03 Oct 2017",
+      "BoxOffice": "$172,558,876",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 10
+    },
+    {
+      "Title": "The Shawshank Redemption",
+      "Year": "1994",
+      "Rated": "R",
+      "Released": "14 Oct 1994",
+      "Runtime": "142 min",
+      "Genre": "Drama",
+      "Director": "Frank Darabont",
+      "Writer": "Stephen King, Frank Darabont",
+      "Actors": "Tim Robbins, Morgan Freeman, Bob Gunton",
+      "Plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 7 Oscars. 21 wins & 43 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "9.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "81/100"
+        }
+      ],
+      "Metascore": "81",
+      "imdbRating": "9.3",
+      "imdbVotes": "2,640,847",
+      "imdbID": "tt0111161",
+      "Type": "movie",
+      "DVD": "21 Dec 1999",
+      "BoxOffice": "$28,767,189",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 11
+    },
+    {
+      "Title": "Iron Man 3",
+      "Year": "2013",
+      "Rated": "PG-13",
+      "Released": "03 May 2013",
+      "Runtime": "130 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Shane Black",
+      "Writer": "Drew Pearce, Shane Black, Stan Lee",
+      "Actors": "Robert Downey Jr., Guy Pearce, Gwyneth Paltrow",
+      "Plot": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 1 Oscar. 20 wins & 63 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "79%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "62/100"
+        }
+      ],
+      "Metascore": "62",
+      "imdbRating": "7.1",
+      "imdbVotes": "838,947",
+      "imdbID": "tt1300854",
+      "Type": "movie",
+      "DVD": "24 Sep 2013",
+      "BoxOffice": "$409,013,994",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 12
+    },
+    {
+      "Title": "Iron Man 2",
+      "Year": "2010",
+      "Rated": "PG-13",
+      "Released": "07 May 2010",
+      "Runtime": "2 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Jon Favreau",
+      "Writer": "Justin Theroux, Stan Lee, Don Heck",
+      "Actors": "Robert Downey Jr., Mickey Rourke, Gwyneth Paltrow",
+      "Plot": "With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful mad man with ties to his father's legacy.",
+      "Language": "English, French, Russian",
+      "Country": "United States",
+      "Awards": "Nominated for 1 Oscar. 7 wins & 44 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0MDgwNjMyMl5BMl5BanBnXkFtZTcwNTg3NzAzMw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "72%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "57/100"
+        }
+      ],
+      "Metascore": "57",
+      "imdbRating": "6.9",
+      "imdbVotes": "807,074",
+      "imdbID": "tt1228705",
+      "Type": "movie",
+      "DVD": "17 Aug 2010",
+      "BoxOffice": "$312,433,331",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 13
+    },
+    {
+      "Title": "Iron Man",
+      "Year": "2008",
+      "Rated": "PG-13",
+      "Released": "02 May 2008",
+      "Runtime": "126 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Jon Favreau",
+      "Writer": "Mark Fergus, Hawk Ostby, Art Marcum",
+      "Actors": "Robert Downey Jr., Gwyneth Paltrow, Terrence Howard",
+      "Plot": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+      "Language": "English, Persian, Urdu, Arabic, Kurdish, Hindi, Hungarian",
+      "Country": "United States, Canada",
+      "Awards": "Nominated for 2 Oscars. 21 wins & 73 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ],
+      "Metascore": "79",
+      "imdbRating": "7.9",
+      "imdbVotes": "1,043,875",
+      "imdbID": "tt0371746",
+      "Type": "movie",
+      "DVD": "30 Sep 2008",
+      "BoxOffice": "$319,034,126",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 14
+    },
+    {
+      "Title": "Fist Fight",
+      "Year": "2017",
+      "Rated": "R",
+      "Released": "17 Feb 2017",
+      "Runtime": "91 min",
+      "Genre": "Comedy",
+      "Director": "Richie Keen",
+      "Writer": "Van Robichaux, Evan Susser, Max Greenfield",
+      "Actors": "Ice Cube, Charlie Day, Tracy Morgan",
+      "Plot": "When one school teacher unwittingly causes another teacher's dismissal, he is challenged to an after-school fight.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 win & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg0NzkyMjE5NF5BMl5BanBnXkFtZTgwMDE5NTg3MDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "25%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "37/100"
+        }
+      ],
+      "Metascore": "37",
+      "imdbRating": "5.6",
+      "imdbVotes": "42,941",
+      "imdbID": "tt3401882",
+      "Type": "movie",
+      "DVD": "30 May 2017",
+      "BoxOffice": "$32,187,017",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 15
+    },
+    {
+      "Title": "Clear and Present Danger",
+      "Year": "1994",
+      "Rated": "PG-13",
+      "Released": "03 Aug 1994",
+      "Runtime": "141 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Phillip Noyce",
+      "Writer": "Tom Clancy, Donald E. Stewart, Steven Zaillian",
+      "Actors": "Harrison Ford, Willem Dafoe, Anne Archer",
+      "Plot": "CIA Analyst Jack Ryan is drawn into an illegal war fought by the US government against a Colombian drug cartel.",
+      "Language": "English, Spanish",
+      "Country": "United States",
+      "Awards": "Nominated for 2 Oscars. 3 wins & 11 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2NlMTk4MzMtZTRmMS00ZWM1LWFjZGUtNmRmYTZjZjg1OTBlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "80%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "74/100"
+        }
+      ],
+      "Metascore": "74",
+      "imdbRating": "6.9",
+      "imdbVotes": "99,771",
+      "imdbID": "tt0109444",
+      "Type": "movie",
+      "DVD": "26 Oct 1999",
+      "BoxOffice": "$122,187,717",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 16
+    },
+    {
+      "Title": "Joker",
+      "Year": "2019",
+      "Rated": "R",
+      "Released": "04 Oct 2019",
+      "Runtime": "122 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Todd Phillips",
+      "Writer": "Todd Phillips, Scott Silver, Bob Kane",
+      "Actors": "Joaquin Phoenix, Robert De Niro, Zazie Beetz",
+      "Plot": "A mentally troubled stand-up comedian embarks on a downward spiral that leads to the creation of an iconic villain.",
+      "Language": "English",
+      "Country": "United States, Canada",
+      "Awards": "Won 2 Oscars. 122 wins & 239 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "68%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "59/100"
+        }
+      ],
+      "Metascore": "59",
+      "imdbRating": "8.4",
+      "imdbVotes": "1,241,626",
+      "imdbID": "tt7286456",
+      "Type": "movie",
+      "DVD": "03 Oct 2019",
+      "BoxOffice": "$335,477,657",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 17
+    },
+    {
+      "Title": "The Fast and the Furious",
+      "Year": "2001",
+      "Rated": "PG-13",
+      "Released": "22 Jun 2001",
+      "Runtime": "106 min",
+      "Genre": "Action, Adventure, Crime",
+      "Director": "Rob Cohen",
+      "Writer": "Ken Li, Gary Scott Thompson, Erik Bergquist",
+      "Actors": "Vin Diesel, Paul Walker, Michelle Rodriguez",
+      "Plot": "Los Angeles police officer Brian O'Conner must decide where his loyalty really lies when he becomes enamored with the street racing world he has been sent undercover to destroy.",
+      "Language": "English, Spanish",
+      "Country": "United States, Germany",
+      "Awards": "11 wins & 18 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzlkNzVjMDMtOTdhZC00MGE1LTkxODctMzFmMjkwZmMxZjFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "53%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "58/100"
+        }
+      ],
+      "Metascore": "58",
+      "imdbRating": "6.8",
+      "imdbVotes": "382,872",
+      "imdbID": "tt0232500",
+      "Type": "movie",
+      "DVD": "03 Jun 2003",
+      "BoxOffice": "$144,745,925",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 18
+    },
+    {
+      "Title": "2 Fast 2 Furious",
+      "Year": "2003",
+      "Rated": "PG-13",
+      "Released": "06 Jun 2003",
+      "Runtime": "107 min",
+      "Genre": "Action, Adventure, Crime",
+      "Director": "John Singleton",
+      "Writer": "Gary Scott Thompson, Michael Brandt, Derek Haas",
+      "Actors": "Paul Walker, Tyrese Gibson, Cole Hauser",
+      "Plot": "Former cop Brian O'Conner is called upon to bust a dangerous criminal and he recruits the help of a former childhood friend and street racer who has a chance to redeem himself.",
+      "Language": "English, Spanish",
+      "Country": "United States, Germany",
+      "Awards": "4 wins & 13 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzExYjcyYWMtY2JkOC00NDUwLTg2OTgtMDI3MGY2OWQzMDE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "36%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "38/100"
+        }
+      ],
+      "Metascore": "38",
+      "imdbRating": "5.9",
+      "imdbVotes": "272,906",
+      "imdbID": "tt0322259",
+      "Type": "movie",
+      "DVD": "30 Sep 2003",
+      "BoxOffice": "$127,154,901",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 19
+    },
+    {
+      "Title": "The Fast and the Furious: Tokyo Drift",
+      "Year": "2006",
+      "Rated": "PG-13",
+      "Released": "16 Jun 2006",
+      "Runtime": "104 min",
+      "Genre": "Action, Adventure, Crime",
+      "Director": "Justin Lin",
+      "Writer": "Chris Morgan",
+      "Actors": "Lucas Black, Zachery Ty Bryan, Shad Moss",
+      "Plot": "A teenager becomes a major competitor in the world of drift racing after moving in with his father in Tokyo to avoid a jail sentence in America.",
+      "Language": "English, Japanese, Portuguese",
+      "Country": "United States, Germany, Japan",
+      "Awards": "1 win & 4 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NTMxODEyNV5BMl5BanBnXkFtZTcwMDgxMjA0MQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "38%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "45/100"
+        }
+      ],
+      "Metascore": "45",
+      "imdbRating": "6.0",
+      "imdbVotes": "270,033",
+      "imdbID": "tt0463985",
+      "Type": "movie",
+      "DVD": "26 Sep 2006",
+      "BoxOffice": "$62,514,415",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 20
+    },
+    {
+      "Title": "Batman v Superman: Dawn of Justice",
+      "Year": "2016",
+      "Rated": "PG-13",
+      "Released": "25 Mar 2016",
+      "Runtime": "152 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Zack Snyder",
+      "Writer": "Chris Terrio, David S. Goyer, Bob Kane",
+      "Actors": "Ben Affleck, Henry Cavill, Amy Adams",
+      "Plot": "Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "14 wins & 31 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "29%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "44/100"
+        }
+      ],
+      "Metascore": "44",
+      "imdbRating": "6.4",
+      "imdbVotes": "694,864",
+      "imdbID": "tt2975590",
+      "Type": "movie",
+      "DVD": "19 Jul 2016",
+      "BoxOffice": "$330,360,194",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 21
+    },
+    {
+      "Title": "The Batman",
+      "Year": "2022",
+      "Rated": "PG-13",
+      "Released": "04 Mar 2022",
+      "Runtime": "176 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Matt Reeves",
+      "Writer": "Matt Reeves, Peter Craig, Bob Kane",
+      "Actors": "Robert Pattinson, Zoë Kravitz, Jeffrey Wright",
+      "Plot": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+      "Language": "English, Spanish, Latin, Italian",
+      "Country": "United States",
+      "Awards": "2 wins & 25 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "72/100"
+        }
+      ],
+      "Metascore": "72",
+      "imdbRating": "7.9",
+      "imdbVotes": "592,633",
+      "imdbID": "tt1877830",
+      "Type": "movie",
+      "DVD": "19 Apr 2022",
+      "BoxOffice": "$369,345,583",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 22
+    },
+    {
+      "Title": "Batman Begins",
+      "Year": "2005",
+      "Rated": "PG-13",
+      "Released": "15 Jun 2005",
+      "Runtime": "140 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Christopher Nolan",
+      "Writer": "Bob Kane, David S. Goyer, Christopher Nolan",
+      "Actors": "Christian Bale, Michael Caine, Ken Watanabe",
+      "Plot": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.",
+      "Language": "English, Mandarin",
+      "Country": "United States, United Kingdom",
+      "Awards": "Nominated for 1 Oscar. 13 wins & 79 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "84%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "70/100"
+        }
+      ],
+      "Metascore": "70",
+      "imdbRating": "8.2",
+      "imdbVotes": "1,452,552",
+      "imdbID": "tt0372784",
+      "Type": "movie",
+      "DVD": "18 Oct 2005",
+      "BoxOffice": "$206,863,479",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 23
+    },
+    {
+      "Title": "Batman & Robin",
+      "Year": "1997",
+      "Rated": "PG-13",
+      "Released": "20 Jun 1997",
+      "Runtime": "125 min",
+      "Genre": "Action, Sci-Fi",
+      "Director": "Joel Schumacher",
+      "Writer": "Bob Kane, Akiva Goldsman",
+      "Actors": "Arnold Schwarzenegger, George Clooney, Chris O'Donnell",
+      "Plot": "Batman and Robin try to keep their relationship together even as they must stop Mr. Freeze and Poison Ivy from freezing Gotham City.",
+      "Language": "English",
+      "Country": "United States, United Kingdom",
+      "Awards": "10 wins & 22 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ5YTM1NmMtYmIxYy00N2VmLWJhZTYtN2EwYTY3MWFhOTczXkEyXkFqcGdeQXVyNTA2NTI0MTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "3.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "12%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "28/100"
+        }
+      ],
+      "Metascore": "28",
+      "imdbRating": "3.7",
+      "imdbVotes": "253,548",
+      "imdbID": "tt0118688",
+      "Type": "movie",
+      "DVD": "21 Oct 1997",
+      "BoxOffice": "$107,353,792",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 24
+    },
+    {
+      "Title": "Batman Returns",
+      "Year": "1992",
+      "Rated": "PG-13",
+      "Released": "19 Jun 1992",
+      "Runtime": "126 min",
+      "Genre": "Action, Crime, Fantasy",
+      "Director": "Tim Burton",
+      "Writer": "Bob Kane, Daniel Waters, Sam Hamm",
+      "Actors": "Michael Keaton, Danny DeVito, Michelle Pfeiffer",
+      "Plot": "While Batman deals with a deformed man calling himself the Penguin wreaking havoc across Gotham with the help of a cruel businessman, a female employee of the latter becomes the Catwoman with her own vendetta.",
+      "Language": "English",
+      "Country": "United States, United Kingdom",
+      "Awards": "Nominated for 2 Oscars. 2 wins & 29 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "81%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "68/100"
+        }
+      ],
+      "Metascore": "68",
+      "imdbRating": "7.1",
+      "imdbVotes": "304,258",
+      "imdbID": "tt0103776",
+      "Type": "movie",
+      "DVD": "22 Aug 1997",
+      "BoxOffice": "$162,924,631",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 25
+    },
+    {
+      "Title": "Batman",
+      "Year": "1989",
+      "Rated": "PG-13",
+      "Released": "23 Jun 1989",
+      "Runtime": "126 min",
+      "Genre": "Action, Adventure",
+      "Director": "Tim Burton",
+      "Writer": "Bob Kane, Sam Hamm, Warren Skaaren",
+      "Actors": "Michael Keaton, Jack Nicholson, Kim Basinger",
+      "Plot": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.",
+      "Language": "English, French, Spanish",
+      "Country": "United States, United Kingdom",
+      "Awards": "Won 1 Oscar. 9 wins & 26 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDNjOGNhN2UtNmNhMC00YjU4LWEzMmUtNzRkM2RjN2RiMjc5XkEyXkFqcGdeQXVyMTU0OTM5ODc1._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "73%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "69/100"
+        }
+      ],
+      "Metascore": "69",
+      "imdbRating": "7.5",
+      "imdbVotes": "376,002",
+      "imdbID": "tt0096895",
+      "Type": "movie",
+      "DVD": "22 Aug 1997",
+      "BoxOffice": "$251,409,241",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 26
+    }
+  ]
+}
